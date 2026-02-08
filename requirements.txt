@@ -1,0 +1,10 @@
+flask
+requests
+pdf2image
+pytesseract
+spacy
+torch
+sentence-transformers
+rank-bm25
+numpy
+python-dotenv
